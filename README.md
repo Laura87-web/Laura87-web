@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-     👋👋👋 Hello everybody!!! 
+    <h1> 👋👋👋 Hello everybody!!!</h1> 
 
 All the creations here were made combining the following technologies:
 - JavaScript
@@ -29,7 +29,7 @@ and the ever darlings HTML and CSS
 
      ✨ About Me? ✨
 - I learn quickly and enthusiastically any new language that I need.
-- I am looking for a job in the IT sector, I know that this path is one of continuous growth and updating and that I can live up to what is required.
+- I am looking for a job in the IT sector, I know that this path is one of continuous growth and updating and that I can live up to what is required.<br>
 If you whish know more..visist my Linkedin: www.linkedin.com/in/laura-wenli-chu
 
       ✨If I have to relax?😄 well..
