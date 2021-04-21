@@ -13,30 +13,30 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                             👋 Hello everybody!!! 
+     👋👋👋 Hello everybody!!! 
 
 All the creations here were made combining the following technologies:
-
--JavaScript
+- JavaScript
 - ReactJS
--Redux
--NodeJS
--Express
--Sequelize
--PostgreSQL
+- Redux
+- NodeJS
+- Express
+- Sequelize
+- PostgreSQL
 - PHP
 - SQL
 and the ever darlings HTML and CSS
 
-✨ About Me? ✨
+     ✨ About Me? ✨
 - I learn quickly and enthusiastically any new language that I need.
 - I am looking for a job in the IT sector, I know that this path is one of continuous growth and updating and that I can live up to what is required.
+If you whish know more..visist my Linkedin: www.linkedin.com/in/laura-wenli-chu
 
- ✨If I have to relax?😄 well..
+      ✨If I have to relax?😄 well..
 - Music .. I play flute, saxophone
 - Drawing with black pencil
 - Gardening 🌱
 - Yoga or meditation will never enough
 
 
-                                                   ⚡   Welcome to my humble repository !!!  ⚡
+                                                ⚡   Welcome to my humble repository !!!  ⚡
