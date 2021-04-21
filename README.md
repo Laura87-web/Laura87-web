@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    <h1> 👋👋👋 Hello everybody!!!</h1> 
+    👋👋👋 Hello everybody!!!
 
 All the creations here were made combining the following technologies:
 - JavaScript
