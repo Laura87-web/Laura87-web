@@ -39,4 +39,4 @@ If you whish know more..visist my Linkedin: www.linkedin.com/in/laura-wenli-chu
 - Yoga or meditation will never enough
 
 
-                                                ⚡   Welcome to my humble repository !!!  ⚡
+                                                ⚡   Welcome to my repository !!!  ⚡
