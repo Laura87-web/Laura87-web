@@ -32,12 +32,15 @@ and the ever darlings HTML and CSS
 - I am looking for a job in the IT sector, I know that this path is one of continuous growth and updating and that I can live up to what is required.<br>
 If you whish know more..visist my Linkedin: www.linkedin.com/in/laura-wenli-chu
 
-update 10/12/21
+ ✨Update 10/12/21 ✨
 My current job experience: https://github.com/lw-neivor
--Java
--Vertx
--Vue
--Agile methodologies(scrum, Jira)
+- Java
+- Vertx
+- Vue
+- Agile methodologies(scrum, Jira)
+- Microservices
+- Unit Test
+
 
 
       ✨If I have to relax?😄 well..
